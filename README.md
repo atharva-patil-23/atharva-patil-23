@@ -34,7 +34,7 @@
 ```yaml
 name: Atharva Patil
 located_in: Pune , India
-current_job:Student by the day 
+current_job: Student by the day 
 education:
   [
     "Self-Taught Developer and Open Source Conributor",
