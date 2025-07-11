@@ -46,6 +46,14 @@
 > 
 > [🔗 Live Demo](https://your-demo-link.com) | [📂 Repository](https://github.com/yourusername/flowai)
 
+### 🤖 Convo - A realtime chat application
+> Responsive real-time chatting application built with the MERN stack and Socket.IO for seamless instant messaging.
+> 
+> **Tech:** TailwindCSS, React, Node.js, MongoDB, Express.js, Socket.io
+> 
+> [🔗 Live Demo](https://convo-client-ten.vercel.app) | [📂 Repository](https://github.com/atharva-patil-23/Convo)
+
+
 *More exciting projects coming soon...*
 
 ## 📫 Let's Connect
