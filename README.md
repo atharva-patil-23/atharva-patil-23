@@ -46,7 +46,7 @@
 > 
 > **Tech:** React, Node.js, MongoDB, OpenAI API, Socket.io
 > 
-> [🔗 Live Demo](https://your-demo-link.com) | [📂 Repository](https://github.com/yourusername/flowai)
+> [🔗 Live Demo]() | [📂 Repository](https://github.com/atharva-patil-23/FlowAI)
 
 ### 🤖 Convo - A realtime chat application
 > Responsive real-time chatting application built with the MERN stack and Socket.IO for seamless instant messaging.
