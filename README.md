@@ -37,6 +37,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-patil-23&layout=compact&theme=dark&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=atharva-patil-23&color=blue)
+
 ## 🚀 Featured Projects
 
 ### 🤖 FlowAI - AI Task Management Platform *(In Progress)*
