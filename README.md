@@ -55,6 +55,13 @@
 > 
 > [🔗 Live Demo](https://convo-client-ten.vercel.app) | [📂 Repository](https://github.com/atharva-patil-23/Convo)
 
+### 🤖 DevBay - A blogging platform for devs.
+> DevBay is a developer-focused blogging platform .It allows developers to share insights, tutorials, and project updates in a clean and minimalist interface.
+> 
+> **Tech:** TailwindCSS, React, Node.js, MongoDB, Express.js.
+> 
+>[📂 Repository](https://github.com/atharva-patil-23/devbay)
+
 
 *More exciting projects coming soon...*
 
